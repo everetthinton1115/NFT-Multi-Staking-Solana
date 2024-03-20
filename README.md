@@ -1,1 +1,3 @@
-# NFT-Multi-Staking-Solana
+# NFT Staing (Land, Animal, Farmer)
+
+## NFT Staking frontend
